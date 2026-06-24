@@ -1,4 +1,10 @@
-# lum_boxtypes
+# ARCHIVED
+
+Moved to https://github.com/lum-rs/lum
+
+---
+
+## lum_boxtypes
 
 lum framework's box types library
 
